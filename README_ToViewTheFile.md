@@ -1,5 +1,1 @@
-ATTENTION TA'S:
-
-For some reason, when uploaded to github, my jupyter lab file either does not load or it prints really weirdly. To fix this, you can copy and paste my file link into https://nbviewer.jupyter.org/ to view from there. 
-
-For example, here is the direct link. https://nbviewer.jupyter.org/github/cecind123/pandas-challenge/blob/master/PyCitySchools/Academy_of_PyHW.ipynb
+In the event that my Jupyter Lab file does not load correctly on GitHub, please visit this direct link to see my blocks of code executed. https://nbviewer.jupyter.org/github/cecind123/pandas-challenge/blob/master/PyCitySchools/Academy_of_PyHW.ipynb
