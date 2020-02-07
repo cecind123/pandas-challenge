@@ -2,7 +2,7 @@
 
 In this PyCitySchools assignment, I have used Jupyter Lab and the Pandas library to analyze school district data.
 
-I am provided CSVs containing district-wide standardized test results. As well as every student's math/reading scores and various information on the schools they attend. I first had to aggregate the data in order to showcase obvious trends in school performance.
+I am provided CSVs containing district-wide standardized test results as well as every student's math/reading scores and various information on the schools they attend. I first had to aggregate the data in order to showcase obvious trends in school performance.
 
 I am able to determine the following:
    
